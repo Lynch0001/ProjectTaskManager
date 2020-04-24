@@ -16,6 +16,7 @@ import com.lynch.task.Task;
 
 @CrossOrigin
 @RestController
+@RequestMapping("/api")
 public class TaskController {
 	
 	@Autowired

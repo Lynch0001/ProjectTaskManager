@@ -57,6 +57,11 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<profiles>
+						<profile>dev</profile>
+					</profiles>
+				</configuration>
 			</plugin>
 			<plugin>
 				<artifactId>maven-resources-plugin</artifactId>
@@ -69,7 +74,7 @@
 				              <outputDirectory>${basedir}/target/classes/static/</outputDirectory >
 				              <resources>
 				                  <resource>
-				                      <directory>${basedir}/../project-frontend/</directory >
+				                      <directory>${basedir}/project-frontend/</directory >
 				                  </resource>
 				              </resources>
 				          </configuration>

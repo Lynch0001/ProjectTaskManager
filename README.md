@@ -151,7 +151,7 @@ Project Link: [https://github.com/lynch0001/ProjectTaskManager](https://github.c
 * []() John Thompson at https://springframework.guru/
 * []() Koushik Kothagal at https://javabrains.io/
 * []() Angular University at https://angular-university.io/
-
+* []() Jason Watmore at https://jasonwatmore.com/
 
 
 

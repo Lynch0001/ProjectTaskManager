@@ -133,7 +133,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Tim Lynch - [@twitter_handle](https://twitter.com/twitter_handle) - Lynch0001@gmail.com
+Tim Lynch - 
+[@twitter_handle](https://twitter.com/twitter_handle) 
+[@medium_handle](https://medium.com/twitter_handle) 
+[Email Address] Lynch0001@gmail.com
 
 Project Link: [https://github.com/lynch0001/ProjectTaskManager](https://github.com/lynch0001/ProjectTaskManager)
 

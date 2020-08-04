@@ -134,6 +134,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Tim Lynch 
+* LinkedIn [timothy-j-lynch] https://www.linkedin.com/in/timothy-j-lynch/
 * Twitter [@twitter_handle](https://twitter.com/twitter_handle) 
 * Medium [@lynch0001](https://medium.com/@lynch0001) 
 * Dev [@lynch0001](https://dev.to/lynch0001) 

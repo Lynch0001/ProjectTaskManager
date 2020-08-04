@@ -133,9 +133,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Tim Lynch - 
+Tim Lynch 
 * Twitter [@twitter_handle](https://twitter.com/twitter_handle) 
 * Medium [@lynch0001](https://medium.com/lynch0001) 
+* Dev [@lynch0001](https://dev.to/lynch0001) 
 * Stackoverflow [tim-lynch](https://stackoverflow.com/users/11063468/tim-lynch)
 * Email Lynch0001@gmail.com
 

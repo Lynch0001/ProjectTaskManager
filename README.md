@@ -135,7 +135,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Tim Lynch - [@twitter_handle](https://twitter.com/twitter_handle) - Lynch0001@gmail.com
 
-Project Link: [https://github.com/ProjectTaskManager/exoplanet](https://github.com/lynch0001/ProjectTaskManager)
+Project Link: [https://github.com/lynch0001/ProjectTaskManager](https://github.com/lynch0001/ProjectTaskManager)
 
 
 

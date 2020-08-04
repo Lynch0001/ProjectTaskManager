@@ -134,9 +134,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Tim Lynch - 
-[@twitter_handle](https://twitter.com/twitter_handle) 
-[@medium_handle](https://medium.com/twitter_handle) 
-[Email Address] Lynch0001@gmail.com
+* Twitter [@twitter_handle](https://twitter.com/twitter_handle) 
+* Medium [@lynch0001](https://medium.com/lynch0001) 
+* Stackoverflow [tim-lynch](https://stackoverflow.com/users/11063468/tim-lynch)
+* Email Lynch0001@gmail.com
 
 Project Link: [https://github.com/lynch0001/ProjectTaskManager](https://github.com/lynch0001/ProjectTaskManager)
 
@@ -145,9 +146,9 @@ Project Link: [https://github.com/lynch0001/ProjectTaskManager](https://github.c
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []() 
-* []()
-* []()
+* []() John Thompson at https://springframework.guru/
+* []() Koushik Kothagal at https://javabrains.io/
+* []() Angular University at https://angular-university.io/
 
 
 

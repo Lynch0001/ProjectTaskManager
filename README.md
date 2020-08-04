@@ -75,10 +75,6 @@ To get a local copy up and running follow these simple steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 
-* NASA Exoplanet Data (Availible at https://exoplanetarchive.ipac.caltech.edu/docs/data.html)
-```sh
-download Confirmed Planets Table (in CSV Format with defaults or all columns/all rows)
-```
 
 * npm
 ```sh
@@ -168,4 +164,4 @@ Project Link: [https://github.com/ProjectTaskManager/exoplanet](https://github.c
 [license-url]: https://github.com/lynch0001/ProjectTaskManager/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/timothy-j-lynch/
-[product-screenshot]: https://user-images.githubusercontent.com/35854692/89050448-c4a84e00-d320-11ea-9b8e-0d50bbee69f4.PNG
+[product-screenshot]: https://user-images.githubusercontent.com/35854692/89045856-39c45500-d31a-11ea-9c9c-f3de0f114d90.PNG

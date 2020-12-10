@@ -22,6 +22,10 @@ public class Task {
 	private String taskName;
 	
 	@JsonFormat(pattern="yyyy-MM-dd")
+	@Column(name="t_added_date", nullable=true)
+	private Date tAddedDate;
+	
+	@JsonFormat(pattern="yyyy-MM-dd")
 	@Column(name="t_due_date", nullable=true)
 	private Date tDueDate;
 	@Column(name="t_started")	
@@ -29,6 +33,9 @@ public class Task {
 	@Column(name="t_complete")	
 	private Boolean tIsComplete;
 	
+	@JsonFormat(pattern="yyyy-MM-dd")
+	@Column(name="t_complete_date", nullable=true)
+	private Date tCompleteDate;
 	
 	
 	@ManyToOne
@@ -39,11 +46,13 @@ public class Task {
 	}
 	
 	
-	public Task(int tid, String taskName, int projectId) {
+	public Task(int tid, String taskName, int projectId, Date tAddedDate, Date tCompleteDate) {
 		super();
 		this.tid = tid;
 		this.taskName = taskName;
 		this.project = new Project(projectId, "", "");
+		this.tAddedDate = tAddedDate;
+		this.tCompleteDate = tCompleteDate;
 	}
 	
 	public int getTid() {
@@ -95,6 +104,26 @@ public class Task {
 
 	public void settIsComplete(Boolean tIsComplete) {
 		this.tIsComplete = tIsComplete;
+	}
+
+
+	public Date gettAddedDate() {
+		return tAddedDate;
+	}
+
+
+	public void settAddedDate(Date tAddedDate) {
+		this.tAddedDate = tAddedDate;
+	}
+
+
+	public Date gettCompleteDate() {
+		return tCompleteDate;
+	}
+
+
+	public void settCompleteDate(Date tCompleteDate) {
+		this.tCompleteDate = tCompleteDate;
 	}
 	
 	

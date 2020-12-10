@@ -135,7 +135,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Tim Lynch 
 * LinkedIn [timothy-j-lynch] (https://www.linkedin.com/in/timothy-j-lynch/)
-* Twitter [@twitter_handle](https://twitter.com/twitter_handle) 
 * Medium [@lynch0001](https://medium.com/@lynch0001) 
 * Dev [@lynch0001](https://dev.to/lynch0001) 
 * Stackoverflow [tim-lynch](https://stackoverflow.com/users/11063468/tim-lynch)
@@ -160,13 +159,13 @@ Project Link: [https://github.com/lynch0001/ProjectTaskManager](https://github.c
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/lynch0001/ProjectTaskManager.svg?style=flat-square
 [contributors-url]: https://github.com/lynch0001/ProjectTaskManager/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ProjectTaskManager/exoplanet.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/lynch0001/ProjectTaskManager.svg?style=flat-square
 [forks-url]: https://github.com/lynch0001/ProjectTaskManager/network/members
-[stars-shield]: https://img.shields.io/github/stars/ProjectTaskManager/exoplanet.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/lynch0001/ProjectTaskManager.svg?style=flat-square
 [stars-url]: https://github.com/lynch0001/ProjectTaskManager/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ProjectTaskManager/exoplanet.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/lynch0001/ProjectTaskManager.svg?style=flat-square
 [issues-url]: https://github.com/lynch0001/ProjectTaskManager/issues
-[license-shield]: https://img.shields.io/github/license/ProjectTaskManager/exoplanet.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/lynch0001/ProjectTaskManager.svg?style=flat-square
 [license-url]: https://github.com/lynch0001/ProjectTaskManager/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/timothy-j-lynch/
